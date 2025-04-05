@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Rántott hús krumplipürével",
+    "weekend": true
+  },
+  {
+    "name": "Paprikás krumpli",
+    "weekend": false
+  },
+  {
+    "name": "Lecsó",
+    "weekend": false
+  },
+  {
+    "name": "Bolognai spagetti",
+    "weekend": false
+  },
+  {
+    "name": "Gulyásleves",
+    "weekend": true
+  },
+  {
+    "name": "Rizses hús",
+    "weekend": false
+  },
+  {
+    "name": "Palacsinta",
+    "weekend": false
+  },
+  {
+    "name": "Rakott krumpli",
+    "weekend": true
+  },
+  {
+    "name": "Brassói aprópecsenye",
+    "weekend": false
+  },
+  {
+    "name": "Hortobágyi palacsinta",
+    "weekend": true
+  },
+  {
+    "name": "Pörkölt galuskával",
+    "weekend": true
+  },
+  {
+    "name": "Grillezett csirkemell salátával",
+    "weekend": false
+  },
+  {
+    "name": "Túrós csusza",
+    "weekend": false
+  },
+  {
+    "name": "Húsleves",
+    "weekend": true
+  },
+  {
+    "name": "Zöldségleves",
+    "weekend": false
+  },
+  {
+    "name": "Fasírt krumplipürével",
+    "weekend": false
+  },
+  {
+    "name": "Hekk sült krumplival",
+    "weekend": true
+  },
+  {
+    "name": "Szilvás gombóc",
+    "weekend": true
+  },
+  {
+    "name": "Hamis gulyás",
+    "weekend": false
+  },
+  {
+    "name": "Bundás kenyér",
+    "weekend": false
+  },
+  {
+    "name": "Babgulyás",
+    "weekend": true
+  },
+  {
+    "name": "Töltött paprika",
+    "weekend": true
+  },
+  {
+    "name": "Tejfölös csirke nokedlivel",
+    "weekend": true
+  }
+]
