@@ -10,8 +10,9 @@ services:
       - key: NODE_ENV
         value: production
 
-  - type: static
+  - type: web
     name: hetimenu-frontend
+    env: static
     buildCommand: cd hetimenu && npm install && npm run build
     staticPublishPath: ./hetimenu/build
     envVars:
